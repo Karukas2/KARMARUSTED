@@ -1,0 +1,22 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: 'poppins', sans-serif;
+
+}
+.hero{
+    min-height: 100vh;
+    width: 100%;
+    background-color: black;
+    background-image: url(https://media.tenor.com/hk_G7l3598cAAAAM/karma-art.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    color:#fff ;
+    padding: 0 8%;
+}
+   
+
+
+
